@@ -1,3 +1,4 @@
+const broken variable;
 let currentInput = '0';
 
 function updateDisplay() {
