@@ -8,7 +8,7 @@ function appendNumber(num) {
     if (currentInput === '0' && num !== '.') {
         currentInput = num;
     } else {
-        currentInput -= num;
+        currentInput += num;
     }
     updateDisplay();
 }
