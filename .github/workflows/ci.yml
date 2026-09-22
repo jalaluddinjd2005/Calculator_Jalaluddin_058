@@ -15,5 +15,5 @@ jobs:
       run: |
         test -f index.html
         test -f style.css
-        test -f fakefile.js
+        test -f script.js
         echo "All core files exist successfully!"
