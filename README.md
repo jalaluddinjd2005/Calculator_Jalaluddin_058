@@ -5,7 +5,7 @@ A clean, responsive, and fully functional web-based calculator built using **HTM
 ---
 
 ## 🚀 Live Demo
-* [View Live Application](#) *(Replace this with your actual GitHub Pages or hosting link)*
+* [View Live Application](https://calculator-jalaluddin-058.vercel.app/) 
 
 ---
 
