@@ -1,0 +1,12 @@
+name: CI Workflow
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Verify files exist
+      run: |
+        test -f index.html
+        test -f style.css
+        test -f script.js
